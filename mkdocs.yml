@@ -1,4 +1,4 @@
-site_name: bnowledge-base
+site_name: Knowledge Base
 theme:
   name: material
   features:
@@ -66,7 +66,7 @@ nav:
 extra:
   generator: false
   social:
-    - icon: fontawesome/solid/paper-plane
+    - icon: fontawesome/solid/envelope
       link: mailto:contact@harshdeepsingh.in
 
 
