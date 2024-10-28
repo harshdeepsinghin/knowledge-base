@@ -45,8 +45,8 @@ plugins:
   # - social   # not working on windows due to gtk tools error and other errors which req cairo and dll's. 
 
 
-repo_url: https://github.com/rohanbatrain/Knowledge-Base
-repo_name: rohanbatrain/Knowledge-Base
+repo_url: https://github.com/harshdeepsinghin/Knowledge-Base
+repo_name: harshdeepsinghin/Knowledge-Base
 
 
 extra_javascript:
