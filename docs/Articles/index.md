@@ -1,0 +1,1 @@
+Browse the articles from the the left nav menu.
